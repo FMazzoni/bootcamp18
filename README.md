@@ -1,2 +1,2 @@
 # bootcamp18
-python summer intern 18
+Python Summer intern 18
