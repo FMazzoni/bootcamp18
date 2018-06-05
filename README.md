@@ -1,7 +1,3 @@
-# bootcamp18
-<<<<<<< HEAD
-Python Summer intern 18
-=======
-python summer intern 18
+# bootcamp 2018 
+Python Summer Internship 2018
 A change was made
->>>>>>> 6ea92e2102f88bf8dbadcfdfe1de1cd36408137e
